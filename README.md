@@ -1,5 +1,7 @@
 <h1 align="center">Group-1 (Prime - Hotel Booking System)</h1>
+<h2 align="center">Run application</h2>
 
+<p>To run the application, you will have to have a java SDK installed since the app is java based. You will therefore have to configure java in the environment variables. You will also have to get android studio installed. Also configure the needed settings in android. From there, you can clone the project, open in android studio and run the applicaion </p>
 <h3 align="center">Sign Up Page</h3>
 
 ![signup](https://github.com/dcit202Andriod/Group-1/assets/102569865/c7be8f29-dc13-4f9a-be01-275d8e1d9595)
